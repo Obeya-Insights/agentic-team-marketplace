@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.4.0 — 2026-07-15
+
+- **Playbooks zijn nu pure methodiek**: vaste database- en bestandsverwijzingen zijn verwijderd. Je agents werken met wat jíj aanreikt (gesprek, projectkennis of je eigen gekoppelde bronnen) en verzinnen nooit data. Een adaptieve databronnen-laag volgt in een latere release.
+- **Makkelijker verbinden**: de vooringevulde connector-URL bevat nu een placeholder — vervang alleen `PLAK-HIER-JE-SLEUTEL` door je licentiesleutel in het connector-dialoog.
+- Update binnenhalen: `/plugin update agentic-team-complete` (of `agentic-team-essentials`).
+
 ## 1.3.1 — 2026-07-15
 
 - **Vindbaarheid**: elke agent-skill vermeldt nu de letterlijke activatiezin (bv. "Start mijn dag") zodat Claude hem automatisch herkent — slash-commando's zijn niet nodig.
