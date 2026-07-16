@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.10.0 — 2026-07-16
+
+- **De Orchestrator heet voortaan Regisseur** — zelfde agent, duidelijker naam. Activatiezinnen ("Start mijn dag") en je connector blijven ongewijzigd; alleen de naam in skills en teamoverzichten is bijgewerkt.
+- Update binnenhalen: `/plugin update agentic-team-complete` (of `agentic-team-essentials`).
+
 ## 1.9.1 — 2026-07-16
 
 - **Modulair abonnement**: het team is opgebouwd uit een vaste Core met stapelbare modules (Growth, Visibility, Sales, Delivery, Strategy, Backoffice) en drie bundels Start / Scale / Complete. Je licentie bepaalt welke modules actief zijn; een agent buiten je modules vertelt precies welke module hem ontgrendelt.
