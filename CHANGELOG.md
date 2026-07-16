@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.9.1 — 2026-07-16
+
+- **Modulair abonnement**: het team is opgebouwd uit een vaste Core met stapelbare modules (Growth, Visibility, Sales, Delivery, Strategy, Backoffice) en drie bundels Start / Scale / Complete. Je licentie bepaalt welke modules actief zijn; een agent buiten je modules vertelt precies welke module hem ontgrendelt.
+- **Teamgeheugen in de bron-intake**: de intake richt nu ook je eigen "Lessen & Inzichten" in — als vijfde database (Notion), als `lessen.json` (werkbestanden) of als vijfde kopje (document). Zo leest elke agent zijn eerdere lessen terug.
+- Update binnenhalen: `/plugin update agentic-team-complete` (of `agentic-team-essentials`).
+
 ## 1.7.0 — 2026-07-16
 
 - Interne opruiming: platform-tiers samengevoegd tot de twee pakketten (essentials/complete). Geen functionele wijziging voor jou — bestaande licenties en connector-URLs blijven gewoon werken; updaten is optioneel.
